@@ -2,21 +2,16 @@
 
 ## Gratuitos
 
-1. **Introducción a la inteligencia artificial para procesos industriales**  
-   Plataforma: edX  
-   Duración: 6 semanas (flexible)  
-   Nivel: Básico a intermedio
+1. Introducción a la Inteligencia Artificial (AnáhuacX via edX)
+➡️ Link: [edX – AnáhuacX IA Introducción ](https://www.edx.org/learn/artificial-intelligence/universidades-anahuac-introduccion-a-la-inteligencia-artificial)
 
-2. **Economía circular y sostenibilidad industrial**  
-   Plataforma: Coursera  
-   Duración: 4 semanas  
-   Nivel: Introducción
+2. Herramientas de IA para productividad (UPV via edX)
+➡️ Link: [https://www.edx.org/learn/artificial-intelligence/universitat-politecnica-de-valencia-herramientas-de-inteligencia-artificial-para-la-productividad-mas-alla-del-chatgpt](https://www.edx.org/learn/artificial-intelligence/universitat-politecnica-de-valencia-herramientas-de-inteligencia-artificial-para-la-productividad-mas-alla-del-chatgpt)
 
-3. **Automatización y control industrial básico**  
-   Plataforma: Udemy  
-   Duración: 8 horas  
-   Nivel: Principiante
+3. Cursos Machine Learning (edX catálogo general)
+➡️ Link: [edX – Courses ML ](https://www.edx.org/es/aprende/aprendizaje-automatico)
 
+Incluye desde nivel básico hasta avanzado.
 ---
 
 ## De pago
