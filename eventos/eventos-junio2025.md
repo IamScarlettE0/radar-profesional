@@ -1,15 +1,13 @@
 # Eventos y Webinars recomendados - Junio 2025
 
-## Webinar: Transformación digital en minería: retos y oportunidades  
-Fecha: 20 de junio de 2025, 10:00 AM (CLT)  
-Link inscripción: [https://www.miningtechwebinars.cl/transformacion-digital](https://www.miningtechwebinars.cl/transformacion-digital)
+## On‑demand webinar – “Navigating Industry 4.0 in Materials, Minerals & Mining”
+De IOM3 (Institute of Materials, Minerals & Mining)
+➡️ Acceso al webinar bajo demanda (requiere registro gratuito): IOM3 on-demand 
+[https://gmggroup.org/gmg-zero-entry-mining-webinar/](https://www.iom3.org/events-awards/webinars.html)
 
-## Evento: Hidrógeno verde y minería sostenible  
-Fecha: 25 de junio de 2025, 9:00 AM (CLT)  
-Link inscripción: [https://www.greenminingconference.com/inscripcion](https://www.greenminingconference.com/inscripcion)
+## Cubre temas de sostenibilidad, economía circular y digitalización en minería.
 
-## Webinar: Automatización y control industrial avanzado  
-Fecha: 28 de junio de 2025, 4:00 PM (CLT)  
-Link inscripción: [https://industrialautomationwebinars.com/avanzado](https://industrialautomationwebinars.com/avanzado)
-
-
+3. Webinar – “Zero Entry Mining”
+Organizado por GMG Group
+➡️ Grabación disponible desde el 25 feb 2025: GMG Zero Entry Mining Webinar 
+https://gmggroup.org/gmg-zero-entry-mining-webinar/
