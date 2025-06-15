@@ -11,24 +11,29 @@
 3. Cursos Machine Learning (edX catálogo general)
 ➡️ Link: [edX – Courses ML ](https://www.edx.org/es/aprende/aprendizaje-automatico)
 
-Incluye desde nivel básico hasta avanzado.
+#### Incluye desde nivel básico hasta avanzado.
 ---
 
 ## De pago
 
-1. **Diplomado en Minería 4.0 y tecnologías emergentes**  
-   Institución: Universidad de Chile  
-   Duración: 3 meses  
-   Modalidad: Online
+Cursos / Diplomados de Pago Recomendados
+1. Diplomado en Inteligencia Artificial (Universidad Autónoma de Chile)
+Duración: 5 meses (online, campus virtual)
+Contenido: Machine Learning, Deep Learning, Visión por Computadora, Procesamiento del Lenguaje Natural (PLN)
+Costo: $990.000 CLP (arancel) + $120.000 CLP (matrícula) 
+Inscripción / Info: Disponible al completar el formulario en la página oficial
 
-2. **Especialización en Inteligencia Artificial para la industria**  
-   Plataforma: edX (MIT)  
-   Duración: 6 meses  
-   Modalidad: Online
+2. Diplomado en Inteligencia Artificial para los Negocios (Universidad de los Andes – UANDES)
+Inicio: 4 de agosto 2025 (online o presencial)
+Duración: 4.5 meses
+Costo: Matrícula 5 UF + arancel 80 UF (~$3.200.000 CLP) 
+Enfoque: IA generativa, LLMs, estrategia organizacional, cambio cultural
+Inscripción / Info: Formulario en la web del programa 
 
-3. **Gestión estratégica de la innovación industrial**  
-   Plataforma: Coursera  
-   Duración: 5 semanas  
-   Nivel: Intermedio
+3. Diploma en Inteligencia Artificial para Confiabilidad y Mantenimiento Predictivo (Universidad de Chile – UChile)
+Fechas: 6 junio 2025 – 20 diciembre 2025 (viernes y sábado)
+Modalidad: Online sincrónico vía Zoom + plataforma U‑Cursos 
+Enfoque: Técnicas de IA aplicadas a confiabilidad y mantenimiento predictivo
+Contacto: diplodimecma@ing.uchile.cl – +56 2 2978 4591 
 
 
