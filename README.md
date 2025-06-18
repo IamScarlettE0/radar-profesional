@@ -2,6 +2,9 @@
 
 Este repositorio centraliza recursos, noticias, cursos, papers y eventos relacionados con Minería 4.0, automatización industrial, inteligencia artificial aplicada a procesos industriales, sostenibilidad y transformación digital.
 
+![https://github.com/IamScarlettE0](./48dba830-ca30-44a1-83d6-501a669094da.png)
+
+
 ## Estructura del repositorio
 
 - `/docs/` — Guías técnicas y términos clave  
