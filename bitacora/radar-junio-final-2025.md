@@ -53,6 +53,3 @@ Explora la implementación de gemelos digitales que integran detección automát
 - **UAV Object Detection Using LiDAR for Industrial Metaverse Applications**  
 Desarrolla un sistema de detección de objetos en drones mediante LiDAR, fundamental para la creación de entornos virtuales integrados con la industria minera.
 
----
-
-¿Quieres que te prepare este contenido en un archivo `.md` listo para copiar y pegar en tu GitHub?
