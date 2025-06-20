@@ -30,7 +30,3 @@ Es hidrógeno producido usando energía renovable (como solar o eólica) para se
 ## Mantenimiento Predictivo  
 Método que usa datos y análisis para anticipar cuándo una máquina necesitará reparación, evitando paros inesperados y optimizando costos.
 
----
-
-Si quieres, te preparo este texto para subirlo a tu repositorio en el archivo:  
-`docs/glosario-terminos-julio-2025.md` listo para copiar y pegar. ¿Quieres?
